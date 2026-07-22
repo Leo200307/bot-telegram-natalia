@@ -28,7 +28,7 @@ bot.setWebHook(`${URL}/bot${TOKEN}`);
 function getWelcomeMessage() {
     return {
         type: 'photo',
-        media: 'https://i.postimg.cc/NLhz138k/img5.jpg',
+        media: 'https://i.postimg.cc/VL8y0t7J/img6.jpg',
         caption: `🙈 *SHORGELY BURGOS😈*
 
 🔥 **𝗦𝗨𝗦𝗖𝗥𝗜𝗕𝗘𝗧𝗘😉 SEMANA PROMOCIONAL🔥**
