@@ -28,7 +28,7 @@ bot.setWebHook(`${URL}/bot${TOKEN}`);
 function getWelcomeMessage() {
     return {
         type: 'photo',
-        media: 'https://i.postimg.cc/SxMPxxhZ/img3.jpg',
+        media: 'https://i.postimg.cc/NLhz138k/img5.jpg',
         caption: `🙈 *SHORGELY BURGOS😈*
 
 🔥 **𝗦𝗨𝗦𝗖𝗥𝗜𝗕𝗘𝗧𝗘😉 SEMANA PROMOCIONAL🔥**
@@ -104,7 +104,7 @@ bot.on('callback_query', async (query) => {
             await bot.editMessageMedia(
                 {
                     type: 'photo',
-                      media: 'https://i.postimg.cc/SxMPxxhZ/img3.jpg',
+                      media: 'https://i.postimg.cc/NLhz138k/img5.jpg',
                     caption: `𝗛𝗢𝗟𝗜 💕🔥
 TODOS MIS MÉTODOS DE PAGO 🥰
 
